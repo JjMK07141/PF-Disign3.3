@@ -1,0 +1,171 @@
+/* space */
+section#space {
+  
+}
+section#space .wrap {
+  
+}
+section#space .wrap h2 {
+  display: block;
+  text-align: center;
+  margin-bottom: 60px;
+}
+section#space .wrap ul {
+  display: flex;
+  justify-content: space-between;
+}
+section#space .wrap ul li { 
+
+}
+section#space .wrap ul li img {
+  width: 100%;
+  height: 640px;
+  padding-bottom: 30px;
+}
+section#space .wrap ul li h3{
+  padding-bottom: 10px;
+}
+section#space .wrap ul li p {
+}
+section#space .wrap div {
+  display: flex;
+  justify-content: center;
+}
+section#space .wrap div a {
+
+}
+
+
+
+
+/* about */
+section#about {
+
+}
+section#about .wrap {
+
+}
+section#about .wrap h2 {
+  display: flex;
+  justify-content: center;
+  margin: 5% auto;
+}
+section#about .wrap img {
+
+}
+section#about .wrap ul {
+
+}
+section#about .wrap ul li {
+
+}
+section#about .wrap ul li:nth-child(1) {
+  
+}
+section#about .wrap ul li:nth-child(2) {
+  
+}
+section#about .wrap ul li:nth-child(3) {
+  
+}
+section#about .wrap ul li h4 {
+
+}
+section#about .wrap ul li span {
+
+}
+section#about .wrap ul li p{
+
+}
+
+
+
+/* product */
+section#products{
+
+}
+section#products .wrap {
+
+}
+section#products .wrap::before {
+
+}
+section#products .wrap h2 {
+
+}
+section#products .wrap ul {
+
+}
+section#products .wrap ul li {
+}
+section#products .wrap ul li h3 {
+
+}
+section#products .wrap ul li p {
+
+}
+section#products .wrap ul li img {
+
+}
+section#products .wrap ul li a {
+
+}
+section#products .wrap {
+
+}
+section#products .wrap article {
+
+}
+section#products .wrap article h3 {
+
+}
+section#products .wrap article figure{
+
+}
+section#products .wrap article figure img{
+
+}
+section#products .wrap article p {
+
+}
+section#products .wrap article a {
+
+}
+
+
+
+/* contact */
+section#contact {
+
+}
+section#contact .wrap {
+
+}
+section#contact .wrap h2 {
+
+}
+section#contact .wrap h3 {
+
+}
+section#contact .wrap p {
+
+}
+section#contact .wrap ul {
+
+}
+section#contact .wrap ul li {
+  
+}
+section#contact .wrap ul li a {
+  
+}
+section#contact .wrap ul li a span {
+  
+}
+section#contact .wrap ul li a time {
+  
+}
+section#contact .wrap a.more {
+
+}
+

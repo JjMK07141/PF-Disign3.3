@@ -1,0 +1,46 @@
+#title {
+  height: 100%;
+  background-color: white;
+  margin: 0 auto;
+  min-height: 600px;
+  background-image: url(../img/visual-1.jpg);
+  background-size: cover;
+  background-position-y: 50%, 105%;
+  position: relative;
+}
+#title .wrap {
+  height: 100%;
+}
+#title .wrap hgroup {
+  color: white;
+  margin-top: 150px;
+}
+#title .wrap a {
+  color: white;
+  border: 1px solid white;
+}
+#title .wrap hgroup p{
+  display: block;
+  margin-bottom: 10px;
+  color: #3ec5b2;
+}
+#title .wrap hgroup h2 {
+  display: block;
+}
+#title .wrap hgroup h3 {
+  font-weight: 700;
+  line-height: 1.3;
+  margin-top: 20px;
+}
+/* #title::after{
+  content: "";
+  height: 100%;
+  background-color: white;
+  margin: 0 auto;
+  border-radius: 0 0 30px 30px;
+  min-height: 600px;
+  background-image: url(../img/visual-2.jpg);
+  background-size: cover;
+  background-position-y: 50%, 105%;
+  position: relative;
+} */

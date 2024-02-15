@@ -1,0 +1,59 @@
+header {
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+  
+}
+header div.wrap {
+
+}
+header div.wrap h1 {
+
+}
+header div.wrap h1 a {
+  font-size: 0;
+  background-image: url(../img/logo-white.svg);
+  background-repeat: no-repeat;
+  width: 160px;
+  height: 27px;
+  display: block;
+}
+header div.wrap ul.gnb {
+
+}
+header div.wrap ul.gnb li {
+
+}
+header div.wrap ul.gnb li a {
+  padding: 10px 20px;
+}
+header div.wrap ul.gnb li a:hover {
+  color: #1f70d9;
+}
+
+header div.wrap div.right {
+  gap: 20px;
+  font-size: 20px;
+  align-items: center;
+}
+header div.wrap div.right ul {
+  color: white;
+}
+header div.wrap div.right ul li {
+
+}
+header div.wrap div.right ul li a {
+  margin-left: 80px;
+  color: white;
+}
+header div.wrap div.right > a.ham {
+  font-size: 0;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  flex-direction: column;
+flex-wrap: wrap;
+  background-image: url(../img/menu.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
