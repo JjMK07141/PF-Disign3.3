@@ -154,3 +154,28 @@ main .h2::before{
   display: inline-block;
   width: 150px;
 }
+.line{
+  border: 1px solid white;
+  height: 54px;
+  margin: 40px auto;
+}
+.line1{
+  width: 1px;
+  height: 0%;
+  position: absolute;
+  background-color: white;
+  opacity: 0.4;
+  top: 0;
+  left: 33.33%;
+  height: 100%;
+}
+.line2{
+  width: 1px;
+  height: 0%;
+  position: absolute;
+  background-color: white;
+  opacity: 0.4;
+  top: 0;
+  left: 66.66%;
+  height: 100%;
+}

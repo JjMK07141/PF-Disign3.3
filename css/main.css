@@ -45,11 +45,10 @@ section#space .wrap div a{
 /* about */
 section#about {
   height: 100vh;
-  width: 100vw;
 }
 section#about .wrap {
   position: relative;
-  width: 100%;
+  max-width: 100%;
   overflow: hidden;
   height: 900px;
 }
@@ -58,7 +57,7 @@ section#about .wrap h2 {
   justify-content: center;
   color: white;
   position: absolute;
-  top: 0;
+  top: 20px;
   left: 45%;
   text-transform: uppercase;
 }
@@ -72,10 +71,16 @@ section#about .wrap img{
   object-fit: cover;
 }
 section#about .wrap ul {
-
+  display: flex;
+  padding-top: 20%;
 }
 section#about .wrap ul li {
-
+  width: 33.333%;
+  text-align: center;
+  position: relative;
+  color: white;
+  text-transform: uppercase;
+  font-size: 25px;
 }
 section#about .wrap ul li h4 {
 
@@ -86,6 +91,7 @@ section#about .wrap ul li span {
 section#about .wrap ul li p{
 
 }
+
 
 
 
